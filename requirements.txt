@@ -1,0 +1,9 @@
+transformers>=4.46.0
+datasets>=2.18.0
+peft>=0.7.0
+torch>=2.0.0
+evaluate>=0.4.0
+rouge-score>=0.1.2
+sacrebleu>=2.4.0
+numpy>=1.24.0
+matplotlib>=3.7.0
